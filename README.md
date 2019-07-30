@@ -1,3 +1,6 @@
+## Setup
+Download model  
+https://drive.google.com/open?id=1IvobLDbRiBgZr3ryCRrWL8xDbMZ-KnpF
 ## Usage
 video(30fps) to video(60fps)
 ```bash
